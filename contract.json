@@ -1,0 +1,10 @@
+{
+  "base_url": "http://localhost:8000",
+  "resource": "items",
+  "id_field": "id",
+  "missing_id": "999999",
+  "list_key": null,
+  "create": { "title": "Первая запись" },
+  "update": { "title": "Изменённая запись" },
+  "required_field": "title"
+}
