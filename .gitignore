@@ -33,3 +33,6 @@ Thumbs.db
 # Базы
 *.db
 *.sqlite3
+
+.venv/
+__pycache__/
